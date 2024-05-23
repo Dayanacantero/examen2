@@ -1,0 +1,6 @@
+# Archivos y directorios que quieres ignorar en Git
+
+
+archivo_temporal.txt
+*.log
+node_modules/
